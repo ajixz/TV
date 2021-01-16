@@ -36,6 +36,9 @@ https://rtmsportshd.secureswiftcontent.com/Origin02/ngrp:RTM2/chunklist_b1064000
 #EXTINF:-1 tvg-id="" group-title="" tvg-logo="https://raw.githubusercontent.com/ajixz/tv-logo/master/my/awani.png",Astro Awani
 https://awanitv.akamaized.net/hls/live/2017836/LiveTV1/index.m3u8
 
+#EXTINF:-1 tvg-id="" group-title="" tvg-logo="https://raw.githubusercontent.com/ajixz/tv-logo/master/my/bernama.png",Bernama
+https://raw.githubusercontent.com/ajixz/TV/master/token/bernama.m3u8
+
 #EXTINF:-1 tvg-id="" group-title="" tvg-logo="https://raw.githubusercontent.com/ajixz/tv-logo/master/my/naura.png",Naura
 https://agsplayback01.astro.com.my/CH2/master_NAURAGOSHOP4_04.m3u8
 
