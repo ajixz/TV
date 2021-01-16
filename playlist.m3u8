@@ -81,7 +81,7 @@ https://livedoc.cgtn.com/1000d/prog_index.m3u8
 #EXTINF:-1 tvg-id="" group-title="" tvg-logo="https://poster.starhubgo.com/Linear_channels2/703_1920x1080_HTV.png",Sky News
 https://skynews2-plutolive-vo.akamaized.net/cdhlsskynewsamericas/1013/latest.m3u8
 
-#EXTINF:-1 tvg-id="" group-title="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/ABC_News_Live_logo.svg/604px-ABC_News_Live_logo.svg.png",ABC News
+#EXTINF:-1 tvg-id="" group-title="" tvg-logo="https://i.imgur.com/XN7yfIx.png",ABC News
 https://raw.githubusercontent.com/ajixz/TV/master/token/abcnews.m3u8
 
 #EXTINF:-1 tvg-id="" group-title="" tvg-logo="https://raw.githubusercontent.com/ajixz/tv-logo/master/news/dw.png",DW
