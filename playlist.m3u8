@@ -69,6 +69,9 @@ https://cdn-videos.akamaized.net/btv/desktop/fastly/asia/live/primary.m3u8
 #EXTINF:-1 tvg-id="" group-title="" tvg-logo="https://raw.githubusercontent.com/ajixz/tv-logo/master/news/cgtn.png",CGTN
 https://live.cgtn.com/1000/prog_index.m3u8
 
+#EXTINF:-1 tvg-id="CGD.News" group-title="Documentaries" tvg-logo="http://static.epg.best/au/CGTNDocu.au.png",CGTN Documentary
+https://livedoc.cgtn.com/1000d/prog_index.m3u8
+
 #EXTINF:-1 tvg-id="" group-title="" tvg-logo="https://poster.starhubgo.com/Linear_channels2/703_1920x1080_HTV.png",Sky News
 https://skynews2-plutolive-vo.akamaized.net/cdhlsskynewsamericas/1013/latest.m3u8
 
@@ -89,3 +92,9 @@ https://livedoc.cgtn.com/500d/prog_index.m3u8
 
 #EXTINF:-1 tvg-id="" group-title="" tvg-logo="https://img.redbull.com/images/c_fill,g_auto,w_1500,h_1000/q_auto,f_auto/redbullcom/2016/10/01/1331821221085_2/red-bull-tv",RedBull TV
 https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_3360.m3u8
+
+#EXTINF:-1 tvg-id="" group-title="" tvg-logo="https://i.imgur.com/7bZnIJ0.png",Rick and Morty
+https://adultswim-vodlive.cdn.turner.com/live/rick-and-morty/stream_5.m3u8
+
+#EXTINF:-1 tvg-id="" group-title="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f6/Samurai_Jack_logo.png",Samurai Jack
+https://adultswim-vodlive.cdn.turner.com/live/samurai-jack/stream_5.m3u8
