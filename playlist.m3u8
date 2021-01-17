@@ -93,6 +93,9 @@ https://raw.githubusercontent.com/ajixz/TV/master/token/dw.m3u8
 #EXTINF:-1 tvg-id="" group-title="" tvg-logo="https://raw.githubusercontent.com/ajixz/tv-logo/master/news/france24.png",France 24
 https://raw.githubusercontent.com/ajixz/TV/master/token/france24.m3u8
 
+#EXTINF:-1 tvg-id="" group-title="" tvg-logo="https://raw.githubusercontent.com/ajixz/tv-logo/master/news/euronews.png",Euronews
+https://raw.githubusercontent.com/ajixz/TV/master/token/euronews.m3u8
+
 #EXTINF:-1 tvg-id="" group-title="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6e/TRT_World_logo.svg/800px-TRT_World_logo.svg.png",TRT World
 https://tv-trtworld.live.trt.com.tr/master_720.m3u8
 
