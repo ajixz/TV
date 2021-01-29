@@ -27,6 +27,9 @@ https://rtmokey.secureswiftcontent.com/Origin02/ngrp:RTM2/chunklist_b1064000.m3u
 #EXTINF:-1 tvg-id="" group-title="" tvg-logo="https://raw.githubusercontent.com/ajixz/tv-logo/master/my/ikim.png",TV Ikim
 http://edge.vediostream.com/abr/tvikim/live/tvikim_source/playlist.m3u8
 
+#EXTINF:-1 tvg-id="" group-title="" tvg-logo="https://telummedia.scdn1.secure.raxcdn.com/uploads/cache/profile_image/uploads/media/logos/crop/2015/05/5f83b11ae1d8d.png",TV Sarawak
+https://agsplayback01.astro.com.my/CH1/master_AGS_TVS_04.m3u8
+
 #EXTINF:-1 tvg-id="" group-title="" tvg-logo="https://raw.githubusercontent.com/ajixz/tv-logo/master/my/brtm.png",Berita RTM
 https://rtmbes.secureswiftcontent.com/Origin03/ngrp:RTM3/chunklist_b1064000.m3u8|Referer=https://myklik.rtm.gov.my
 
