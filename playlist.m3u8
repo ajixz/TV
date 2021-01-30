@@ -69,7 +69,7 @@ https://rtb-channel.glue.live/smil:rtb1/chunklist_w1872621853_b1696000_sleng.m3u
 #EXTINF:-1 tvg-id="" group-title="" tvg-logo="https://raw.githubusercontent.com/ajixz/tv-logo/master/id/kompas.png",Kompas TV
 https://raw.githubusercontent.com/ajixz/TV/master/token/kompastv.m3u8
 
-#EXTINF:-1 tvg-id="Inw.ID" group-title="Indonesia" tvg-logo="https://www.rctiplus.com/assets/image/elements/logo-inews.png",iNews
+#EXTINF:-1 tvg-id="" group-title="" tvg-logo="https://www.rctiplus.com/assets/image/elements/logo-inews.png",iNews
 https://raw.githubusercontent.com/ajixz/TV/master/token/inews.m3u8
 
 #EXTINF:-1 tvg-id="" group-title="" tvg-logo="https://raw.githubusercontent.com/ajixz/tv-logo/master/sg/cna.png",CNA
