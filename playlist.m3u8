@@ -93,13 +93,13 @@ https://skynews2-plutolive-vo.akamaized.net/cdhlsskynewsamericas/1013/latest.m3u
 #EXTINF:-1 tvg-id="" group-title="" tvg-logo="https://i.imgur.com/XN7yfIx.png",ABC News Live
 https://content.uplynk.com/channel/3324f2467c414329b3b0cc5cd987b6be.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/NBCNewsNow.png?raw=true",NBC News Now
+#EXTINF:-1 tvg-id="" group-title="" tvg-logo="https://raw.githubusercontent.com/geonsey/Free2ViewTV/master/images/logos/NBCNewsNow.png",NBC News Now
 https://nbcnewshls-i.akamaihd.net/hls/live/1005206/nnn_live2/master.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/geonsey/Free2ViewTV/master/images/logos/CBSNews.png",CBS News
+#EXTINF:-1 tvg-id="" group-title="" tvg-logo="https://raw.githubusercontent.com/geonsey/Free2ViewTV/master/images/logos/CBSNews.png",CBS News
 https://cbsn-us-cedexis.cbsnstream.cbsnews.com/out/v1/55a8648e8f134e82a470f83d562deeca/master.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/geonsey/Free2ViewTV/master/images/logos/EuroNews_400x400.png",Euronews
+#EXTINF:-1 tvg-id="" group-title="" tvg-logo="https://raw.githubusercontent.com/geonsey/Free2ViewTV/master/images/logos/EuroNews_400x400.png",Euronews
 https://d1mpprlbe8tn2j.cloudfront.net/v1/master/7b67fbda7ab859400a821e9aa0deda20ab7ca3d2/euronewsLive/87O7AhxRUdeeIVqf/ewnsabren_eng.m3u8
 
 #EXTINF:-1 tvg-id="" group-title="" tvg-logo="https://raw.githubusercontent.com/ajixz/tv-logo/master/news/dw.png",DW
