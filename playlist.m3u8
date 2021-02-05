@@ -72,7 +72,7 @@ https://raw.githubusercontent.com/ajixz/TV/master/token/kompastv.m3u8
 #EXTINF:-1 tvg-id="" group-title="" tvg-logo="https://www.rctiplus.com/assets/image/elements/logo-inews.png",iNews
 https://raw.githubusercontent.com/ajixz/TV/master/token/inews.m3u8
 
-#EXTINF:-1 tvg-id="" group-title="" tvg-logo="https://raw.githubusercontent.com/ajixz/tv-logo/master/id/net.png",iNews
+#EXTINF:-1 tvg-id="" group-title="" tvg-logo="https://raw.githubusercontent.com/ajixz/tv-logo/master/id/net.png",NET
 https://raw.githubusercontent.com/ajixz/TV/master/token/net.m3u8
 
 #EXTINF:-1 tvg-id="" group-title="" tvg-logo="https://raw.githubusercontent.com/ajixz/tv-logo/master/sg/cna.png",CNA
